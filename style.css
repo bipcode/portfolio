@@ -150,7 +150,7 @@ a:hover{
 }
 
 .card img{
-    padding: 0.5rem;
+    
     height: 22rem;
     width: auto;
     margin: 0.5rem;
@@ -173,3 +173,4 @@ button{
     padding: 2rem;
     background-color: #FF8600;
 }
+
